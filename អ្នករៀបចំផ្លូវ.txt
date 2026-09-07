@@ -1,3 +1,6 @@
+[Meta]
+languages: km, en
+
 [Title]
 អ្នករៀបចំផ្លូវ
 

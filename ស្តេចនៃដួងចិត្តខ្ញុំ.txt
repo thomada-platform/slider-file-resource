@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ស្តេចនៃដួងចិត្តខ្ញុំ
 

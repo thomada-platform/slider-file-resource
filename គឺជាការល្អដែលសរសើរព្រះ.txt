@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 គឺជាការល្អដែលសរសើរព្រះ
 

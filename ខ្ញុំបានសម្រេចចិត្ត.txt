@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ខ្ញុំបានសម្រេចចិត្ត
 

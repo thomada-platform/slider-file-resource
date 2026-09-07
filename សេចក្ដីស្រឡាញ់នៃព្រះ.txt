@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 សេចក្ដីស្រឡាញ់នៃព្រះ
 

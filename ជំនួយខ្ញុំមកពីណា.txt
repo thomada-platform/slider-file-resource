@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ជំនួយខ្ញុំមកពីណា
 

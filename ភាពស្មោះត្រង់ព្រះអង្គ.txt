@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ភាពស្មោះត្រង់ព្រះអង្គ
 

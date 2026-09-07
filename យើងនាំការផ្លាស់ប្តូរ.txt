@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 យើងនាំការផ្លាស់ប្តូរ
 

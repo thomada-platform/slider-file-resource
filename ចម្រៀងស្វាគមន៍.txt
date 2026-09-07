@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ចម្រៀងស្វាគមន៍
 

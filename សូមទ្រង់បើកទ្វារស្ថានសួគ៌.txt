@@ -1,3 +1,6 @@
+[Meta]
+languages: km, en
+
 [Title]
 សូមទ្រង់បើកទ្វារស្ថានសួគ៌
 

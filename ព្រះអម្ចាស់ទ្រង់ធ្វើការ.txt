@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ព្រះអម្ចាស់ទ្រង់ធ្វើការ
 

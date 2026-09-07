@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ដោយសារព្រះយេស៊ូវ
 

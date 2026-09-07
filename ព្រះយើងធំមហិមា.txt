@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ព្រះយើងធំមហិមា
 

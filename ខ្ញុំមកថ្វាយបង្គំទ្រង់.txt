@@ -1,3 +1,6 @@
+[Meta]
+languages: km, en
+
 [Title]
 ខ្ញុំមកថ្វាយបង្គំទ្រង់
 Here I Am to Worship

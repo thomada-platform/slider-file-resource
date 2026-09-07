@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 តើមានអ្វីអាចលាងបាបផង
 

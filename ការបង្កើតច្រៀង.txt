@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ការបង្កើតច្រៀង
 

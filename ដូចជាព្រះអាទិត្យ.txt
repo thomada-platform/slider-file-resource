@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ដូចជាព្រះអាទិត្យ
 

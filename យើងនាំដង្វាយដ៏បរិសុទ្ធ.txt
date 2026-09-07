@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 យើងនាំដង្វាយដ៏បរិសុទ្ធ
 

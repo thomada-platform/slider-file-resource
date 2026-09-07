@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ភ្នំរើចេញទៅ
 

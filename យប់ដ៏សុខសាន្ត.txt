@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 យប់ដ៏សុខសាន្ត
 

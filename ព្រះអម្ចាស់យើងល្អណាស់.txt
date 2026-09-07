@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ព្រះអម្ចាស់យើងល្អណាស់
 

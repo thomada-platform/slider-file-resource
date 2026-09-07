@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 តង្វាយស្ម័គ្រពីចិត្ត
 

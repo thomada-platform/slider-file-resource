@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ទ្រង់បំបែករនាំងខ្ញុំ
 

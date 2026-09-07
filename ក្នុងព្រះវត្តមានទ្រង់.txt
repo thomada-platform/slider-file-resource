@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ក្នុងព្រះវត្តមានទ្រង់
 

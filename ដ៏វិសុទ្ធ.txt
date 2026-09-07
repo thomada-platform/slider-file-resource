@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ដ៏វិសុទ្ធ
 

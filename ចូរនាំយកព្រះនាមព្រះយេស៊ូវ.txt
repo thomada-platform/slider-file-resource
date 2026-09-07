@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ចូរនាំយកព្រះនាមព្រះយេស៊ូវ
 

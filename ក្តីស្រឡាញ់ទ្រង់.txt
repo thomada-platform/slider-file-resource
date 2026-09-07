@@ -1,3 +1,6 @@
+[Meta]
+languages: km
+
 [Title]
 ក្តីស្រឡាញ់ទ្រង់
 

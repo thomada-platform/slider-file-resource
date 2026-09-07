@@ -1,3 +1,6 @@
+[Meta]
+languages: km, en
+
 [Title]
 ទ្រង់គិតដល់ខ្ញុំ
 
