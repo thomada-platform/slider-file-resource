@@ -1,29 +1,42 @@
 [Meta]
-languages: km
+languages: km, en
 
 [Title]
 គ្មានអ្វីដែលពិបាកនោះឡើយ
+Nothing Is Impossible
 
 [Verse 1]
 ខ្ញុំមិនរស់ដោយអ្វីខ្ញុំមើលឃើញ
+I'm not gonna live by what I see
 ខ្ញុំមិនរស់ដោយអារម្មណ៍ខ្ញុំឡើយ
+I'm not gonna live by what I feel
 
 [Pre-Chorus]
 ក្នុងចិត្តខ្ញុំ ដឹងថាទ្រង់គង់ទីនេះ
+Deep down I, know that You're here with me
 ខ្ញុំដឹងថា ទ្រង់អាចធ្វើបានទាំងអស់
+And I know that, You can do anything
 
-[Chorus 1]
+[Chorus]
 ព្រោះទ្រង់ ខ្ញុំអាចធ្វើបានទាំងអស់
+Through You, I can do anything
 ខ្ញុំធ្វើគ្រប់ទាំងអស់
+I can do all things
 ដ្បិតព្រះអង្គប្រទានកម្លាំង
+For it's You who gives me strength
 គ្មានអ្វីដែលពិបាកនោះឡើយ
-
-[Chorus 2]
+Nothing is impossible
 ព្រោះទ្រង់ ភ្នែកខ្វាក់មើលឃើញវិញ
+Through You, blind eyes are opened
 បន្ទាយមាររលំ
+Strongholds are broken
 ខ្ញុំរស់នៅដោយជំនឿ
+I am living by faith
 គ្មានអ្វីដែលពិបាកនោះឡើយ
+Nothing is impossible
 
 [Bridge]
 ខ្ញុំជឿជាក់ ខ្ញុំជឿជាក់
+I believe, I believe
 ខ្ញុំជឿជាក់ ខ្ញុំជឿជាក់លើទ្រង់
+I believe, I believe in You
