@@ -1,5 +1,5 @@
 [Meta]
-languages: km
+languages: km, en
 
 [Title]
 ព្រះវិញ្ញាណបរិសុទ្ធ
