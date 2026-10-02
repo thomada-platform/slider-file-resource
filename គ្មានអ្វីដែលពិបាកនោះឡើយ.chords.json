@@ -1,0 +1,248 @@
+{
+ "version": 1,
+ "languages": [
+  "km",
+  "en"
+ ],
+ "title": [
+  "គ្មានអ្វីដែលពិបាកនោះឡើយ",
+  "Nothing Is Impossible"
+ ],
+ "key": {
+  "tonic": 9,
+  "mode": "major"
+ },
+ "authors": "",
+ "copyright": "",
+ "ccli": "",
+ "notes": "",
+ "arrangement": [],
+ "sections": [
+  {
+   "id": "Verse 1#1",
+   "label": "Verse 1",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំមិនរស់ដោយអ្វីខ្ញុំមើលឃើញ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A"
+         },
+         {
+          "at": 9,
+          "chord": "F#m"
+         }
+        ]
+       },
+       {
+        "text": "I'm not gonna live by what I see",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំមិនរស់ដោយអារម្មណ៍ខ្ញុំឡើយ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "F#m"
+         }
+        ]
+       },
+       {
+        "text": "I'm not gonna live by what I feel",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Pre-Chorus#1",
+   "label": "Pre-Chorus",
+   "type": "prechorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ក្នុងចិត្តខ្ញុំ ដឹងថាទ្រង់គង់ទីនេះ",
+        "chords": []
+       },
+       {
+        "text": "Deep down I, know that You're here with me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំដឹងថា ទ្រង់អាចធ្វើបានទាំងអស់",
+        "chords": []
+       },
+       {
+        "text": "And I know that, You can do anything",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Chorus#1",
+   "label": "Chorus",
+   "type": "chorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ព្រោះទ្រង់ ខ្ញុំអាចធ្វើបានទាំងអស់",
+        "chords": []
+       },
+       {
+        "text": "Through You, I can do anything",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំធ្វើគ្រប់ទាំងអស់",
+        "chords": []
+       },
+       {
+        "text": "I can do all things",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ដ្បិតព្រះអង្គប្រទានកម្លាំង",
+        "chords": []
+       },
+       {
+        "text": "For it's You who gives me strength",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "គ្មានអ្វីដែលពិបាកនោះឡើយ",
+        "chords": []
+       },
+       {
+        "text": "Nothing is impossible",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រោះទ្រង់ ភ្នែកខ្វាក់មើលឃើញវិញ",
+        "chords": []
+       },
+       {
+        "text": "Through You, blind eyes are opened",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "បន្ទាយមាររលំ",
+        "chords": []
+       },
+       {
+        "text": "Strongholds are broken",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំរស់នៅដោយជំនឿ",
+        "chords": []
+       },
+       {
+        "text": "I am living by faith",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "គ្មានអ្វីដែលពិបាកនោះឡើយ",
+        "chords": []
+       },
+       {
+        "text": "Nothing is impossible",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Bridge#1",
+   "label": "Bridge",
+   "type": "bridge",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំជឿជាក់ ខ្ញុំជឿជាក់",
+        "chords": []
+       },
+       {
+        "text": "I believe, I believe",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំជឿជាក់ ខ្ញុំជឿជាក់លើទ្រង់",
+        "chords": []
+       },
+       {
+        "text": "I believe, I believe in You",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  }
+ ]
+}
