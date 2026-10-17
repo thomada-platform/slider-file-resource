@@ -1,0 +1,301 @@
+{
+ "version": 1,
+ "languages": [
+  "km",
+  "en"
+ ],
+ "title": [
+  "ខ្ញុំអាចច្រៀងពីក្តីស្នេហ៍ទ្រង់រហូត",
+  "I Could Sing Of Your Love Forever"
+ ],
+ "key": null,
+ "authors": "",
+ "copyright": "",
+ "ccli": "",
+ "notes": "",
+ "arrangement": [],
+ "sections": [
+  {
+   "id": "Verse#1",
+   "label": "Verse",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ពីលើកំពូលភ្នំនិងសមុទ្រ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "F"
+         }
+        ]
+       },
+       {
+        "text": "Over the mountains and the sea",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ក្តីស្នេហ៍ទ្រង់ហូរដូចទឹកទន្លេ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Gm"
+         }
+        ]
+       },
+       {
+        "text": "Your river runs with love for me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ហើយខ្ញុំនឹងបើកចំហរដួងចិត្ត",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A#"
+         }
+        ]
+       },
+       {
+        "text": "And I will open up my heart",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "សូមទ្រង់ព្យាបាលអោយមានសិរី",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "C"
+         }
+        ]
+       },
+       {
+        "text": "And let the healer set me free",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំមានអំណររស់ក្នុងក្តីពិត",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "F"
+         }
+        ]
+       },
+       {
+        "text": "I’m happy to be in the truth",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំលើកដៃសរសើរទ្រង់រាល់ថ្ងៃ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Gm"
+         }
+        ]
+       },
+       {
+        "text": "And I will daily lift my hands",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ដើម្បីច្រៀងចម្រៀងអោយក្តីស្នេហ៍ទ្រង់បានយាងមក",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A#"
+         },
+         {
+          "at": 12,
+          "chord": "C"
+         }
+        ]
+       },
+       {
+        "text": "For I will always sing of when Your love came down",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Chorus#1",
+   "label": "Chorus",
+   "type": "chorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំអាចច្រៀងពីក្តីស្នេហ៍ ទ្រង់រហូត",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "F"
+         },
+         {
+          "at": 10,
+          "chord": "Gm"
+         }
+        ]
+       },
+       {
+        "text": "I could sing of Your love forever",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំអាចច្រៀងពីក្តីស្នេហ៍ ទ្រង់រហូត",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A#"
+         },
+         {
+          "at": 10,
+          "chord": "C"
+         }
+        ]
+       },
+       {
+        "text": "I could sing of Your love forever",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Bridge#1",
+   "label": "Bridge",
+   "type": "bridge",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំចង់រាំសរសើរទ្រង់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Gm"
+         },
+         {
+          "at": 8,
+          "chord": "F"
+         }
+        ]
+       },
+       {
+        "text": "Oh, I feel like dancing",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទោះគេចំអកមើលងាយ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A#"
+         },
+         {
+          "at": 5,
+          "chord": "C"
+         }
+        ]
+       },
+       {
+        "text": "It's foolishness, I know",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "តែពេលពន្លឺនៃទ្រង់ភ្លឺមក",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Gm"
+         },
+         {
+          "at": 6,
+          "chord": "F"
+         }
+        ]
+       },
+       {
+        "text": "But when the world has seen the light",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "នោះផែនដីនឹងឃើញ យើងនឹងរាំថ្វាយទ្រង់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A#"
+         },
+         {
+          "at": 14,
+          "chord": "C"
+         }
+        ]
+       },
+       {
+        "text": "They will dance with joy like we're dancing now",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  }
+ ]
+}

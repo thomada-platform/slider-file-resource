@@ -1,11 +1,16 @@
 [Meta]
-languages: km
+languages: km, en
 
 [Title]
 ផ្តាច់រាល់ច្រវ៉ាក់
+Break Every Chain
 
 [Verse]
 មានចេស្តានៅ ក្នុង ព្រះនាមព្រះ យេស៊ូវ
-
-[Chorus]
+There is power in the name of Jesus
+មានចេស្តានៅ ក្នុង ព្រះនាមព្រះ យេស៊ូវ
+There is power in the name of Jesus
+មានចេស្តានៅ ក្នុង ព្រះនាមព្រះ យេស៊ូវ
+There is power in the name of Jesus
 ផ្តាច់រាល់ច្រវ៉ាក់ ផ្តាច់រាល់ច្រវ៉ាក់ ផ្តាច់រាល់ច្រវ៉ាក់
+To break every chain, break every chain, break every chain

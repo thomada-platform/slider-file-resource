@@ -1,0 +1,606 @@
+{
+ "version": 1,
+ "languages": [
+  "km",
+  "en"
+ ],
+ "title": [
+  "ទីឈើឆ្កាង",
+  "At The Cross"
+ ],
+ "key": {
+  "tonic": 4,
+  "mode": "major"
+ },
+ "authors": "",
+ "copyright": "",
+ "ccli": "",
+ "notes": "",
+ "arrangement": [],
+ "sections": [
+  {
+   "id": "Verse 1#1",
+   "label": "Verse 1",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ព្រះអង្គទ្រង់ស្វែងយល់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 3,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "B"
+         },
+         {
+          "at": 7,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "Oh, Lord, You've searched me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ពីជម្រៅចិត្តខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 1,
+          "chord": "A"
+         },
+         {
+          "at": 3,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "You know my way",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទោះបីពេលខ្ញុំដើរខុស",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 2,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "B"
+         },
+         {
+          "at": 7,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "Even when I fail You",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំដឹងទ្រង់ស្រឡាញ់ខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "I know You love me",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": [
+    [
+     {
+      "at": 0,
+      "chord": "A"
+     },
+     {
+      "at": 1,
+      "chord": "B"
+     }
+    ]
+   ]
+  },
+  {
+   "id": "Verse 2#1",
+   "label": "Verse 2",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ព្រះវត្តមានទ្រង់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 1,
+          "chord": "A"
+         },
+         {
+          "at": 3,
+          "chord": "B"
+         },
+         {
+          "at": 5,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "Your holy presence",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ហ៊ុំព័ទ្ធរូបខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 1,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "Surrounding me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "នៅគ្រប់រដូវកាល",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 1,
+          "chord": "A"
+         },
+         {
+          "at": 3,
+          "chord": "B"
+         },
+         {
+          "at": 6,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "In every season",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំដឹងទ្រង់ស្រឡាញ់ខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 8,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "I know You love me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំដឹងទ្រង់ស្រឡាញ់ខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 8,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "I know You love me",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Chorus#1",
+   "label": "Chorus",
+   "type": "chorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ទីឈើឆ្កាងខ្ញុំលត់ជង្គង់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 7,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "At the cross, I bow my knee",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទីដែលទ្រង់សុគតជួសខ្ញុំ",
+        "chords": [
+         {
+          "at": 10,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "Where Your blood was shed for me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "រកក្តីស្នេហ៍ឯណាប្រៀបស្មើ",
+        "chords": [
+         {
+          "at": 9,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "There's no greater love than this",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រះអង្គបានឈ្នះលើក្តីស្លាប់",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 8,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "You have overcome the grave",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ស្ថានសួគ៏ពេញដោយរស្មីទ្រង់",
+        "chords": [
+         {
+          "at": 10,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "Glory fills the highest praise",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "គ្មានអ្វីបំបែកយើងបានឡើយ",
+        "chords": [
+         {
+          "at": 10,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "What can separate me now?",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Verse 3#1",
+   "label": "Verse 3",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ទ្រង់នាំខ្ញុំឆ្ពោះទៅ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 2,
+          "chord": "A"
+         },
+         {
+          "at": 4,
+          "chord": "B"
+         },
+         {
+          "at": 5,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "You go before me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ការពាររូបខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 4,
+          "chord": "A"
+         },
+         {
+          "at": 6,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "You shield my way",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រះហស្តត្រកងខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 1,
+          "chord": "B"
+         },
+         {
+          "at": 3,
+          "chord": "B"
+         },
+         {
+          "at": 6,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "Your hand upholds me",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំដឹងទ្រង់ស្រឡាញ់ខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "E"
+         },
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 8,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "And I know You love me",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Bridge#1",
+   "label": "Bridge",
+   "type": "bridge",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ទ្រង់បំបែករនាំង",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "You tore the veil",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទ្រង់រៀបចំផ្លូវ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "B"
+         },
+         {
+          "at": 5,
+          "chord": "C#m"
+         }
+        ]
+       },
+       {
+        "text": "You made a way",
+        "chords": []
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រោះទ្រង់បានឈ្នះលោកនេះហើយ",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "A"
+         },
+         {
+          "at": 6,
+          "chord": "C#m"
+         },
+         {
+          "at": 9,
+          "chord": "B"
+         }
+        ]
+       },
+       {
+        "text": "When You said that it is done",
+        "chords": []
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  }
+ ]
+}

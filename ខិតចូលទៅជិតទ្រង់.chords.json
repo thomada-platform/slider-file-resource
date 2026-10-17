@@ -1,0 +1,912 @@
+{
+ "version": 1,
+ "languages": [
+  "km",
+  "en"
+ ],
+ "title": [
+  "ខិតចូលទៅជិតទ្រង់",
+  "Drawing Closer"
+ ],
+ "key": {
+  "tonic": 2,
+  "mode": "major"
+ },
+ "authors": "",
+ "copyright": "",
+ "ccli": "",
+ "notes": "",
+ "arrangement": [],
+ "sections": [
+  {
+   "id": "Intro#1",
+   "label": "Intro",
+   "type": "intro",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "អូ អូ អូ អូ អូ អូ អូ អូ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 10,
+          "chord": "G"
+         },
+         {
+          "at": 14,
+          "chord": "D"
+         }
+        ]
+       },
+       {
+        "text": "Oh Oh Oh Oh Oh Oh Oh Oh",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 15,
+          "chord": "G"
+         },
+         {
+          "at": 21,
+          "chord": "D"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Verse 1#1",
+   "label": "Verse 1",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ដល់ ពេលហើយ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 5,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "Oh, this is it",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 9,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "យើងចាកចេញពី អតីត",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "F#m"
+         },
+         {
+          "at": 8,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "I leave it all behind",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "F#m"
+         },
+         {
+          "at": 15,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "រាល់ទាំង កំហុស",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "Bm"
+         },
+         {
+          "at": 5,
+          "chord": "F#m"
+         }
+        ]
+       },
+       {
+        "text": "The past mistakes",
+        "chords": [
+         {
+          "at": 4,
+          "chord": "Bm"
+         },
+         {
+          "at": 9,
+          "chord": "F#m"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ដែលខ្ញុំធ្លាប់បានប្រព្រឹត្ត",
+        "chords": [
+         {
+          "at": 7,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "I wished I could rewind",
+        "chords": [
+         {
+          "at": 17,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Verse 2#1",
+   "label": "Verse 2",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំនឹងដើរឆ្ពោះទៅមុខ ថ្ងៃនេះ",
+        "chords": [
+         {
+          "at": 6,
+          "chord": "Bm"
+         },
+         {
+          "at": 11,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "I am moving forward today",
+        "chords": [
+         {
+          "at": 12,
+          "chord": "Bm"
+         },
+         {
+          "at": 20,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ដោយព្រះគុណទ្រង់រៀបចំផ្លូវ",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "F#m"
+         },
+         {
+          "at": 10,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "As Your grace lights up the way",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "F#m"
+         },
+         {
+          "at": 24,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រះអង្គមិនដែលនាំខ្ញុំ វង្វេង",
+        "chords": [
+         {
+          "at": 7,
+          "chord": "Bm"
+         },
+         {
+          "at": 10,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "You will never lead me astray",
+        "chords": [
+         {
+          "at": 15,
+          "chord": "Bm"
+         },
+         {
+          "at": 23,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ព្រោះខ្ញុំមិនរត់គេចទៀតឡើយ",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "F#m"
+         },
+         {
+          "at": 10,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "So I'll never run away",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "F#m"
+         },
+         {
+          "at": 18,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Verse 3#1",
+   "label": "Verse 3",
+   "type": "verse",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ទោះ បីខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 3,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "Through the things",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 12,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "មិនយល់គ្រប់រឿងទាំងអស់",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "F#m"
+         },
+         {
+          "at": 10,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "That I don't understand",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "F#m"
+         },
+         {
+          "at": 13,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំ នឹងលើក",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 4,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "Oh, I will praise",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 11,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ដៃឡើងសរសើរព្រះអង្គ",
+        "chords": [
+         {
+          "at": 1,
+          "chord": "F#m"
+         },
+         {
+          "at": 7,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "To You I lift my hands",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "F#m"
+         },
+         {
+          "at": 14,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Pre-Chorus#1",
+   "label": "Pre-Chorus",
+   "type": "prechorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ហើយខ្ញុំ ខិតចូលទៅជិតទ្រង់",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "A"
+         },
+         {
+          "at": 4,
+          "chord": "Bm"
+         },
+         {
+          "at": 11,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "Now, I'm drawing closer",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "Bm"
+         },
+         {
+          "at": 17,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ហើយខ្ញុំ ខិតចូលទៅជិតទ្រង់",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "A"
+         },
+         {
+          "at": 4,
+          "chord": "Bm"
+         },
+         {
+          "at": 11,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "Now, I'm drawing closer",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "Bm"
+         },
+         {
+          "at": 17,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Chorus#1",
+   "label": "Chorus",
+   "type": "chorus",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ទោះបីទីណា",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "D"
+         }
+        ]
+       },
+       {
+        "text": "No matter where",
+        "chords": [
+         {
+          "at": 10,
+          "chord": "D"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទោះបីពេលណា",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "Bm"
+         }
+        ]
+       },
+       {
+        "text": "No matter when",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "Bm"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំនឹងស្វែងរកទ្រង់ជាថ្មី",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "G"
+         },
+         {
+          "at": 10,
+          "chord": "D"
+         }
+        ]
+       },
+       {
+        "text": "I am reaching out again",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "G"
+         },
+         {
+          "at": 18,
+          "chord": "D"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ហើយខ្ញុំ ខិតចូលទៅជិតទ្រង់",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "A"
+         },
+         {
+          "at": 4,
+          "chord": "Bm"
+         },
+         {
+          "at": 11,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "Now, I'm drawing closer",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "A"
+         },
+         {
+          "at": 5,
+          "chord": "Bm"
+         },
+         {
+          "at": 17,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ជិតស្និទ្ធជាមួយនឹងព្រះអង្គ",
+        "chords": [
+         {
+          "at": 9,
+          "chord": "Bm"
+         }
+        ]
+       },
+       {
+        "text": "I'm drawing closer to You",
+        "chords": [
+         {
+          "at": 19,
+          "chord": "Bm"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Bridge#1",
+   "label": "Bridge",
+   "type": "bridge",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ពេលខ្ញុំខិតចូល ជិតទ្រង់",
+        "chords": [
+         {
+          "at": 5,
+          "chord": "Bm"
+         },
+         {
+          "at": 10,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "As I draw close to You",
+        "chords": [
+         {
+          "at": 10,
+          "chord": "Bm"
+         },
+         {
+          "at": 19,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ទ្រង់ខិតចូលជិតខ្ញុំ",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 4,
+          "chord": "F#m"
+         },
+         {
+          "at": 8,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "You draw close to me",
+        "chords": [
+         {
+          "at": 0,
+          "chord": "Bm"
+         },
+         {
+          "at": 9,
+          "chord": "F#m"
+         },
+         {
+          "at": 18,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំមានសេរី ក្នុងទ្រង់",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "Bm"
+         },
+         {
+          "at": 8,
+          "chord": "A"
+         }
+        ]
+       },
+       {
+        "text": "All that I want is You",
+        "chords": [
+         {
+          "at": 9,
+          "chord": "Bm"
+         },
+         {
+          "at": 19,
+          "chord": "A"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ខ្ញុំត្រូវការតែព្រះអង្គ",
+        "chords": [
+         {
+          "at": 1,
+          "chord": "F#m"
+         },
+         {
+          "at": 6,
+          "chord": "G"
+         }
+        ]
+       },
+       {
+        "text": "'Cause with You I am free",
+        "chords": [
+         {
+          "at": 1,
+          "chord": "F#m"
+         },
+         {
+          "at": 16,
+          "chord": "G"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  },
+  {
+   "id": "Outro#1",
+   "label": "Outro",
+   "type": "outro",
+   "stanzas": [
+    [
+     {
+      "lines": [
+       {
+        "text": "ជិតស្និទ្ធិព្រះអង្គ",
+        "chords": [
+         {
+          "at": 4,
+          "chord": "Bm"
+         }
+        ]
+       },
+       {
+        "text": "Closer to You",
+        "chords": [
+         {
+          "at": 7,
+          "chord": "Bm"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "គ្រប់រដូវកាល ខ្ញុំនឹងខិតចូល",
+        "chords": [
+         {
+          "at": 2,
+          "chord": "G"
+         },
+         {
+          "at": 13,
+          "chord": "D"
+         }
+        ]
+       },
+       {
+        "text": "In every season, I am drawing",
+        "chords": [
+         {
+          "at": 3,
+          "chord": "G"
+         },
+         {
+          "at": 22,
+          "chord": "D"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "lines": [
+       {
+        "text": "ជិតស្និទ្ធព្រះអង្គ",
+        "chords": [
+         {
+          "at": 4,
+          "chord": "Bm"
+         }
+        ]
+       },
+       {
+        "text": "Closer to You",
+        "chords": [
+         {
+          "at": 7,
+          "chord": "Bm"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ],
+   "notes": [],
+   "chordRows": []
+  }
+ ]
+}
