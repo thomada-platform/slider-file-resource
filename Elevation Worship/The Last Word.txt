@@ -1,0 +1,34 @@
+[Meta]
+languages: en
+
+[Title]
+The Last Word
+
+[Verse 1]
+INTRO (i can faintly hear a C note being played until the verse section starts)
+
+[{tab: E|---------------------------------------------------------------------------|}]
+VERSE (i can't hear any bass in the verse, but if you want to play this light,,,give it a shot)
+
+[{tab: E|---------------------------------------------------------------------------|}]
+CHORUS (obvious bass section here)
+
+[{tab: E|-5-5-5-5-5-5-5-5---1-1-1-1-1-1-1-1--8-8-8-8-8-8-8-8---1-1-1-1-1-1-1-1------|}]
+VERSE II
+
+[{tab: D|---------------5-5----------------------------------15-15-------------------------|}]
+A-/8-8-8-8-8-8-------3-3-3-3-3-3-3-3---/8-8-8-8-8-8--------10-10-10-10-10-10-10-10-
+
+[Chorus]
+BRIDGE (SLOWLY BUILDS UP TO CHORUS, LISTEN CLOSELY TO TOTAL # OF NOTES PLAYED)
+
+[{tab: E|-5-1-1-1-1-1-1--8-3-3-3-3-3-3-5-1-1-1-8-8-3-3-3-3-3-3----------------------|}]
+CHORUS - THIS TIME PLAY SAME NOTES BUT MATCH KICK DRUM EXACTLY
+BRIDGE - SAME NOTES BUT SOME ARE RUNG OUT - LISTEN FOR IT!
+/ slide up
+\ slide down
+h hammer-on
+p pull-off
+~ vibrato
++ harmonic
+x Mute note
