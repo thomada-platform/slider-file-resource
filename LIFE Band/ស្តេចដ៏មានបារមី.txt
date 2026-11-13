@@ -1,24 +1,46 @@
 [Meta]
-languages: km
+languages: km, en
 
 [Title]
 ស្តេចដ៏មានបារមី
+King of majesty
 
 [Verse 1]
-ទ្រង់ដឹងថា ខ្ញុំស្នេហ៍ទ្រង់ ទ្រង់ដឹងថា ទូលបង្គំចង់ស្គាល់ទ្រង់ថែមទៀត
-ស្គាល់ច្បាស់ជាងមុនទៅទៀត _____
+ទ្រង់ដឹងថា ខ្ញុំស្នេហ៍ទ្រង់
+You know that that I love you
+ទ្រង់ដឹងថា ទូលបង្គំ
+And You know that I want to
+ចង់ស្គាល់ទ្រង់ថែមទៀត
+Know you so much more
+ស្គាល់ច្បាស់ជាងមុនទៅទៀត
+More than I have before
 
 [Verse 2]
-ពាក្យនេះចេញ ពីដួងចិត្ត ពាក្យនេះមិន មែនលេងសើច ខ្ញុំរស់សម្រាប់ទ្រង់
-ខ្ញុំថ្វាយជីវិតដាច់ដល់ទ្រង់ _____
+ពាក្យនេះចេញ ពីដួងចិត្ត
+These words are from my heart
+ពាក្យនេះមិន មែនលេងសើច
+These word are not made up
+ខ្ញុំរស់សម្រាប់ទ្រង់
+I will live for you
+ខ្ញុំថ្វាយជីវិតដាច់ដល់ទ្រង់
+I am devoted to you
 
 [Pre-Chorus]
-ស្តេចដ៍មាន.... បារមី អ្វីដែលខ្ញុំ... ចង់បាន គឺនៅក្បែរ ព្រះអង្គ ជាម្ចាស់
+ស្តេចដ៍មាន បារមី
+King of majesty
+អ្វីដែលខ្ញុំ ចង់បាន
+I have one desire
 គឺនៅក្បែរ ព្រះអង្គ ជាម្ចាស់
+Just to be with you my Lord
+គឺនៅក្បែរ ព្រះអង្គ ជាម្ចាស់
+Just to be with you my Lord
 
 [Chorus]
-ព្រះគ្រីស្ទ ទ្រង់ជាព្រះ សង្គ្រោះ ព្រ លឹងខ្ញុំ __ខ្ញុំនឹង ច្រៀងសរ
-សើរថ្វាយដល់ព្រះអង្គ ជារៀងរហូតអើយ ______
-
-[Ending]
-ជារៀងរហូត អើយ ជារៀងរហូត អើយ ជារៀងរហូត អើយ
+ព្រះគ្រីស្ទ ទ្រង់ជាព្រះ
+Jesus, You are the
+សង្គ្រោះ ព្រ លឹងខ្ញុំ
+Savior of my soul
+ខ្ញុំនឹង ច្រៀងសរសើរថ្វាយដល់ព្រះអង្គ
+I'll give my praises to you
+ជារៀងរហូតអើយ
+Forever and ever
